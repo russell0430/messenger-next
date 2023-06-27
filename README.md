@@ -1,4 +1,3 @@
-A severless App built with next.js
 You can communicate with others or chat in group
 
 
